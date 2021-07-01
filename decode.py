@@ -1,3 +1,4 @@
+# That code allows to decode an ADS-B Frame with the preamble 8D (10001101).
 import sys,os.path, math
 
 if len(sys.argv) < 2:
