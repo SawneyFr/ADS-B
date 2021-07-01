@@ -1,3 +1,6 @@
+#I took the def on an other github. But here I use them and you have to use 2 arguments to use that code (first = first frame, second = second frame).
+#It calculate the longitude and latitude too. 
+#WARNING : it uses the util.py library so you have to have that code on the same repertory.
 import math,util,sys,os.path, datetime
 
 def df(msg):
