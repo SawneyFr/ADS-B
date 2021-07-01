@@ -1,3 +1,6 @@
+#That code allows allows to sort files according to preambles and put them in different automatically created folders. 
+#WARNING: it erases the files which do not correspond to the preambles: A0, 18, 5D, 8D
+
 import sys,os.path
 
 if len(sys.argv) < 2:
