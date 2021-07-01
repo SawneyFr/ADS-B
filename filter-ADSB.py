@@ -1,4 +1,4 @@
-﻿import sys,os.path
+import sys,os.path
 
 if len(sys.argv) < 2:
     print("./"+sys.argv[0]+" <nom de dossier>")
